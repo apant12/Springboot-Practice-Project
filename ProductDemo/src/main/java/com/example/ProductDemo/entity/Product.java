@@ -14,6 +14,7 @@ import jakarta.persistence.Id;
         private String name;
         private double price;
 
+        
         // Constructors, Getters, and Setters
         public Product() {
         }
